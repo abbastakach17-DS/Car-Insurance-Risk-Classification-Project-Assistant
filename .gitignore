@@ -1,0 +1,8 @@
+# Block all dataset files ending in .csv
+*.csv
+
+# Block the folder with the name Car_Insurance_Claim.csv
+Car_Insurance_Claim.csv/
+
+# Block the virtual environment folder
+venv/
